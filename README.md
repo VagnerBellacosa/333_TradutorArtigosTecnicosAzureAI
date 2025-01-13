@@ -14,6 +14,8 @@ Aprenda a desenvolver uma solução de tradução automática de artigos técnic
 
 ###### Full-Stack
 
+###### Básico
+
 ------
 
 ###### ESPECIALISTA
